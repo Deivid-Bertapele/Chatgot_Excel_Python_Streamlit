@@ -17,7 +17,7 @@ Este projeto utiliza **Streamlit** para criar uma interface interativa que permi
 ## Como Executar
 1. Colcar o repositório:
     ```bash
-    git clone https://github.com/Deivid-Bertapele/Chatgot_Excel_Python_Streamlit.git
+    git clone https://github.com/Deivid-Bertapele/Chatgt_Excel_Python_Streamlit.git
     ```
 2. Instale as dependências necessárias:
     ```bash
