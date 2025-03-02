@@ -42,4 +42,7 @@ Este projeto utiliza **Streamlit** para criar uma interface interativa que permi
 - Certifique-se de que sua chave de API OpenAI é válida e possui créditos suficientes.
 - O modelo utilizado é o **GPT-4o-mini**, podendo ser alterado conforme necessidade.
 
+![image](https://github.com/user-attachments/assets/0414e25e-efb0-41d8-a5b3-e1ee33dc29cc)
+
+
 
