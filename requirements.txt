@@ -1,0 +1,4 @@
+steamlit
+pandas
+openai
+python-dotenv
